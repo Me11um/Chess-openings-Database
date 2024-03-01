@@ -12,11 +12,11 @@
 
 
 ## О проекте
-
-![Screen Shot](Screenshots/Screenshot1.jpg)
-![Screen Shot](Screenshots/Screenshot2.jpg)
-![Screen Shot](Screenshots/Demo.gif)
-
+<div align="center">
+<img src="Screenshots/Screenshot1.jpg" width="300" />
+<img src="Screenshots/Demo.gif" width="300" />
+<img src="Screenshots/Screenshot2.jpg" width="300" />
+</div>
 Данный проект был выполнен мной в рамках итогового проекта по дисциплине "Разработка и защита мобильных приложений".
 
 Приложение создано на Xamarin и языке C# с использованием базы данных SQLite. В приложении можно менять язык, а также тему.
