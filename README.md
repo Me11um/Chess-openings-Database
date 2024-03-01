@@ -13,9 +13,9 @@
 
 ## О проекте
 <div align="center">
-<img src="Screenshots/Screenshot1.jpg" width="300" />
-<img src="Screenshots/Demo.gif" width="300" />
-<img src="Screenshots/Screenshot2.jpg" width="300" />
+<img src="Screenshots/Screenshot1.jpg" width="200" />
+<img src="Screenshots/Demo.gif" width="200" />
+<img src="Screenshots/Screenshot2.jpg" width="200" />
 </div>
 Данный проект был выполнен мной в рамках итогового проекта по дисциплине "Разработка и защита мобильных приложений".
 
